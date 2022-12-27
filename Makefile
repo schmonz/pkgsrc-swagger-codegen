@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2022/12/27 16:16:52 schmonz Exp $
 
 DISTNAME=		swagger-codegen-cli-3.0.36
 PKGNAME=		${DISTNAME:S/-cli//}
